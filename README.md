@@ -1,1 +1,1 @@
-# Random-Walk-Using-Turtle
+here we are creating a random walk using turtle. we are taking a colors list and we are taking directions list and we are defining turtle speed as fast and pensize as i15 and we are using a loop to generate a random walk using a random colour from colors list for each pach generated.
